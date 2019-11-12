@@ -8,6 +8,6 @@ An assignment in:
 
 ## What is Connect Four?
 
-A two-player game, where you drop colored discs into a 6 x 7 grid. The first player to get connect four discs (horizontally, vertically or diagonally) wins. You can read more about Connect Four on [Wikipedia](https://en.wikipedia.org/wiki/Connect_Four).
+A two-player game, where you drop colored discs into a 6 x 7 grid. The first player to connect four discs (horizontally, vertically or diagonally) wins. You can read more about Connect Four on [Wikipedia](https://en.wikipedia.org/wiki/Connect_Four).
 
 In this version of Connect Four, you use the letters "x" and "o" instead of colored discs.
